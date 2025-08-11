@@ -75,8 +75,6 @@ Local için;
 
 https://go.dev/dl/ Buradan go 1.19.13 sürümünü indirip kuracağız.
 
-export PATH=$PATH:/usr/local/go/bin
-
 go build -o NOVA.exe .
 
 mkdir node1, node2, node3, rpc
